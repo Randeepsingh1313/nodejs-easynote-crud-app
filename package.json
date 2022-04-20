@@ -1,0 +1,24 @@
+{
+  "name": "notes_crud_app",
+  "version": "1.0.0",
+  "description": "Organize and keep track of all Notes here !!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "Rest",
+    "API",
+    "MongoDB",
+    "Mongoosw",
+    "Notes"
+  ],
+  "author": "Basant",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
+}
